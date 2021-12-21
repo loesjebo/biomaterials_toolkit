@@ -1,3 +1,5 @@
+![](./files/images/toolkit.jpg)
+
 # Biomaterials Teaching Toolkit
 
 > Materials can help to expose the cracks of our ailing systems; because they have the power to solidify new norms; because they can make more preferable futures tangible.
