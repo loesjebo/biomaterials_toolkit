@@ -6,7 +6,7 @@
 
 – Liz Corbin, materials researcher & designer
 
-What you have in your hands is a teaching toolkit for critical materials research in higher design and arts education. It comes out of a 2-year project at the Amsterdam University of Applied Sciences, where we – a group of design educators and/or researchers –  developed ways to invite third year bachelor students to explore making practices that center ecosystems rather than human systems. With this toolkit, we share our tried and tested activities, which take bio-based design materials and their unique properties as a point of departure, and offer hands-on activities to critically engage in sustainable material research. 
+What you have in your hands is a teaching toolkit for critical materials research in higher design and arts education. It comes out of a 2-year project at the Amsterdam University of Applied Sciences, where we – a group of design educators and/or researchers –  developed ways to invite bachelor students to explore making practices that center ecosystems rather than human systems. With this toolkit, we share our tried and tested activities, which take bio-based design materials and their unique properties as a point of departure, and offer hands-on activities to critically engage in sustainable material research. 
 
 This toolkit will provide you ways to see materials anew, by learning more about them, exploring alternatives, or altogether defamiliarising ourselves from what we think materials can and should do. 
 
