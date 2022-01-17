@@ -1,4 +1,4 @@
-![](./files/images/toolkit.jpg)
+![](./toolkit.jpg)
 
 # Biomaterials Teaching Toolkit
 
@@ -76,7 +76,7 @@ Funded by NRO Comenius Teaching Fellowship for educational innovation, awarded t
 
 Many thanks to all our students for their wonderful participation, crazy ideas and honest feedback. 
 
-The printed version of this toolkit is a limited edition. The booklet and cards are printed with soy-based ink on a RISO printer, on recycled and FSC-certified paper. The purse is made from 100% Oekotex certified undyed wool felt, sewn together with 100% silk yarn, and a hand-spun string made from Dutch wool. The wool can be mordanted and dyed with most natural dyes, such as madder, weld, cochineal or other.
+The printed version of this toolkit is a limited edition. The booklet and cards are printed with soy-based ink on a RISO printer, on recycled and FSC-certified paper. The purse is made from 100% Oekotex certified undyed wool felt, sewn together with 100% silk yarn, and a hand-spun string made from Dutch wool. The wool can be mordanted and dyed with most natural dyes, such as madder, weld, cochineal or other. 
 
 A digital version of the toolkit is available for download at: https://github.com/loesjebo/biomaterials_toolkit 
 
